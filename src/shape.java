@@ -1,6 +1,6 @@
 import java.util.*;
 
-public abstract class Shape {
+public abstract class shape {
 	public static int computeArea(int a,int b) {
 		return a*b;
 	}

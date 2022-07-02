@@ -58,7 +58,7 @@ public class student {
 		this.set_Name(Name);
 		this.set_Marks(M1, M2, M3);
 		this.calculateTotal();
-		this.Total = M1 + M2 + M3;
+		//this.Total = M1 + M2 + M3;
 	}
 	public student() {}
 	
